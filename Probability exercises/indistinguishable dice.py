@@ -23,8 +23,6 @@ The following parameters are passed to the function:
     j=start at 1, needed for recursion
     comb=empty vector of the size of the number of dice
     cont=will be the counter of the combinations, start at 0
-
-Translated with DeepL.com (free version)
 """
 
 def combination(N,n,S,j,comb,cont):
